@@ -6,4 +6,5 @@ Learning Journal is for journaling my learning process and it can be easy to acc
 The Art of Electronics
 
 ## websites 
-[all about circuits](./allaboutcircuits.com)
+[all about circuits](https://www.allaboutcircuits.com/)
+
