@@ -47,15 +47,16 @@ Components Used:
 
 ## Code Snippet
 ```cpp
-int ledPin = 8;
+int ledPin = 8; //initialise our variable
 
-void setup() {
-  pinMode(ledPin, OUTPUT);
+void setup() { //run once (A special Arduino function) Runs one time only after the board powers up or resets
+
+  pinMode(ledPin, OUTPUT); //create a variable named ledPin. Its value is 8, which refers to digital pin 8 on the Arduino.
 }
-
-void loop() {
-  digitalWrite(ledPin, HIGH);
-  delay(1000);
-  digitalWrite(ledPin, LOW);
-  delay(1000);
+//Sets digital pin 8 as an OUTPUT pin.
+void loop() { // runs forever
+  digitalWrite(ledPin, HIGH); //Sends 5V to pin 8, LED gets current and turn ON 
+  delay(1000); // 1 sec on during this 
+  digitalWrite(ledPin, LOW); //Turns pin 8 to 0V (GND level)
+  delay(1000); // 1 sec off because it is set for 0 v
 }
