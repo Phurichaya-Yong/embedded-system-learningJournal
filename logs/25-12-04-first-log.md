@@ -42,7 +42,6 @@ Components Used:
 1 Arduino Uno R3
 
 ## Circuit Diagram
-[Sketch or image of your circuit]
 <img width="590" height="555" alt="Screen Shot 2025-12-04 at 8 44 12 pm" src="https://github.com/user-attachments/assets/1bd287c2-e74c-4951-84fb-a02bf7c86cb9" />
 
 Code Snippet
