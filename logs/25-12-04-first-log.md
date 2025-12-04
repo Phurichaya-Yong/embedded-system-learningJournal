@@ -18,6 +18,13 @@ By connecting the LED’s long leg to a digital pin, the Arduino can turn the LE
 Example:
 digitalWrite(8, HIGH); // LED ON
 digitalWrite(8, LOW);  // LED OFF
+- Digital = only two states
+0 or 1
+LOW or HIGH
+0V or 5V
+Analog = a whole range of values
+0–1023
+0V–5V
 
 ## How it works
 - Electric Current Flows from HIGH to LOW
