@@ -67,3 +67,24 @@ void loop() { // runs forever
   digitalWrite(ledPin, LOW); //Turns pin 8 to 0V (GND level)
   delay(1000); // 1 sec off because it is set for 0 v
 }
+```
+## Challenges & Solutions
+Problems I Faced
+
+Issue 1: LED did not blink
+
+## How I Solved Them
+
+Solution to issue 1: I tried checking if the wire connecting correctly and make sure current could flow and then rewired everthing again 
+
+## Questions/Things to Explore
+
+Unanswered questions
+Related topics to learn next: using switch and digital circuit theory(state machine, karnaughmap)
+Ideas for improvements: should make circuit look neat 
+
+## Resources Used
+
+Tutorial name: -
+Documentation: - 
+YouTube video or other references: -
