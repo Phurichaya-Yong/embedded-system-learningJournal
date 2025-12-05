@@ -1,4 +1,4 @@
-# [Date] - [Theory Topic]
+#State machine
 
 ## What I Studied Today
 Brief overview of the theoretical concept
