@@ -7,4 +7,4 @@ The Art of Electronics
 
 ## websites 
 [all about circuits](https://www.allaboutcircuits.com/)
-
+[Digital Circuits e-textbook](https://www.allaboutcircuits.com/textbook/digital/)
